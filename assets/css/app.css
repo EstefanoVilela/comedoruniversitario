@@ -1,0 +1,30 @@
+body{
+	/* background-color: #1564C0; */
+}
+
+.panel{
+	border-radius: 5px;
+	background: #fff;
+	box-shadow: 0px 0px 10px 0px #000;
+	height: 100%;
+}
+
+.bg-coun {
+    background: #1564C0;
+    /* color: #fff; */
+}
+
+.cont_carnet {
+    border: #418BCA 1px solid;
+    background: #D9EDF8;
+    border-radius: 5px;
+    height: 100%;
+}
+
+.bloqueo {
+    border: #F2473D 1px solid;
+    background: #FFCED4;
+    border-radius: 5px;
+
+    height: 100%;
+}
